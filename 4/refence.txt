@@ -1,0 +1,7 @@
+https://github.com/slundberg/shap#citations
+https://www.nature.com/articles/s42256-019-0138-9
+https://link.springer.com/article/10.1007/s10115-013-0679-x
+
+
+https://github.com/andosa/treeinterpreter
+http://blog.datadive.net/interpreting-random-forests/
